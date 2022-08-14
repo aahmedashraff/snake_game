@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69792545852",
+    "project_id": "snake-bf2fd",
+    "storage_bucket": "snake-bf2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69792545852:android:de2697da4920f0bc695739",
+        "android_client_info": {
+          "package_name": "com.example.snake_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69792545852-89sguhcqto5qbo5974dfoqhphote8rqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuHlY06mnEicVMyDB6VmXICy26aVyCOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69792545852-89sguhcqto5qbo5974dfoqhphote8rqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
